@@ -1,3 +1,3 @@
 # Test for learning purposes
 
-Follow along with youtube video for git and github!
+Follow along with youtube video for Git and Github!
